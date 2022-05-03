@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "pagination": {
+      "total": 3674,
+      "pages": 184,
+      "page": 1,
+      "limit": 20,
+      "links": {
+        "previous": null,
+        "current": "https://gorest.co.in/public/v1/users?page=1",
+        "next": "https://gorest.co.in/public/v1/users?page=2"
+      }
+    }
+  },
+  "data": [
+    {
+      "id": 3733,
+      "name": "Ekaparnika Kaur",
+      "email": "ekaparnika_kaur@keebler-gusikowski.com",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 3731,
+      "name": "Miss Sukanya Desai",
+      "email": "desai_sukanya_miss@heaney.name",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3730,
+      "name": "Tanushri Pilla",
+      "email": "tanushri_pilla@effertz.net",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 3726,
+      "name": "Bhuvaneshwar Somayaji",
+      "email": "somayaji_bhuvaneshwar@schimmel-hickle.info",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3725,
+      "name": "Nirbhay Achari",
+      "email": "nirbhay_achari@kerluke.co",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 3724,
+      "name": "Deeptimoyee Chattopadhyay",
+      "email": "deeptimoyee_chattopadhyay@harris.biz",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3722,
+      "name": "Chaturbhuj Saini",
+      "email": "chaturbhuj_saini@christiansen-vonrueden.org",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 3721,
+      "name": "Buddhana Bhattathiri PhD",
+      "email": "phd_buddhana_bhattathiri@hoeger-jenkins.com",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 3720,
+      "name": "Mangala Mehra MD",
+      "email": "md_mangala_mehra@okuneva.net",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 3719,
+      "name": "Chandraketu Reddy",
+      "email": "chandraketu_reddy@haley.net",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 3718,
+      "name": "Msgr. Deepan Achari",
+      "email": "achari_deepan_msgr@harvey.org",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3717,
+      "name": "Hiranmaya Iyengar",
+      "email": "hiranmaya_iyengar@conroy.name",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 3716,
+      "name": "Pushti Marar",
+      "email": "pushti_marar@walter-wolf.info",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 3715,
+      "name": "Adityanandana Embranthiri",
+      "email": "adityanandana_embranthiri@beahan-pfeffer.com",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 3714,
+      "name": "Ankal Khan",
+      "email": "ankal_khan@rempel.biz",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3713,
+      "name": "Hiranya Dwivedi",
+      "email": "hiranya_dwivedi@ohara.com",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 3712,
+      "name": "Msgr. Bankim Bhattacharya",
+      "email": "bhattacharya_msgr_bankim@feest-beer.org",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 3711,
+      "name": "Msgr. Somu Malik",
+      "email": "msgr_malik_somu@rohan.org",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3710,
+      "name": "Abhisyanta Varma",
+      "email": "abhisyanta_varma@sipes.info",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3709,
+      "name": "Kanak Gandhi",
+      "email": "gandhi_kanak@rowe.net",
+      "gender": "male",
+      "status": "active"
+    }
+  ]
+}
